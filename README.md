@@ -5,6 +5,7 @@ Python Modules Used:
   - Seaborn
   - Matplotlib
   - Requests
+  - BeautifulSoup
 
 Dashboard Tool Used:
   - Google Looker Studio
